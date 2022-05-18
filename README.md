@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá, seja bem vindo ao meu perfil, me chamo Guilherme, e vou ser seu guia nessa incrivel jornada que é a Tecnologia!
 
-[![Website](https://img.shields.io/badge/Website-663399?style=for-the-badge&link=https://github.com/kevinfengcs88/kevinfengcs88)](https://kevinfengcs88.github.io/)
-[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@kevinfeng-cs88)](https://medium.com/@kevinfeng-cs88)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://https://www.linkedin.com/in/guilherme-machado-freitas-694023237/)](https://www.linkedin.com/in/guilherme-machado-freitas-694023237/)
 
 :school: Atualmente estudando Ciencias da Computação Full Stack</br>
@@ -11,7 +9,7 @@
 :video_game: Gamer de Natureza</br>
 :shower: Fun fact: Qual o problema vamos resolver hoje?</br>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinfengcs88&theme=github_dark&hide=contribs,issues&show_icons=true&include_all_commits=true&hide_border=true" alt="Kevin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfengcs88&theme=github_dark&layout=compact&exclude_repo=piercetheheavens.ga&hide_border=true&langs_count=6" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfengcs88&theme=github_dark&layout=compact&exclude_repo=piercetheheavens.ga&hide_border=true&langs_count=6" /></a> |
 | ------------- | ------------- |
 
 ## Top repositories
