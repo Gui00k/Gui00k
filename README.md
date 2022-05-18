@@ -3,7 +3,7 @@
 
 [![Website](https://img.shields.io/badge/Website-663399?style=for-the-badge&link=https://github.com/kevinfengcs88/kevinfengcs88)](https://kevinfengcs88.github.io/)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@kevinfeng-cs88)](https://medium.com/@kevinfeng-cs88)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/kevin-feng-87a174202/)](https://www.linkedin.com/in/kevin-feng-87a174202/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://https://www.linkedin.com/in/guilherme-machado-freitas-694023237/)](https://www.linkedin.com/in/guilherme-machado-freitas-694023237/)
 
 :school: Atualmente estudando Ciencias da Computação Full Stack</br>
 :fountain_pen: Desde de sempre apaixonado por tecnologia</br>
