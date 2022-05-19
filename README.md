@@ -9,8 +9,8 @@
 :video_game: Gamer de Natureza</br>
 :shower: Fun fact: Qual o problema vamos resolver hoje?</br>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinfengcs88&theme=github_dark&hide=contribs,issues&show_icons=true&include_all_commits=true&hide_border=true" alt="Kevin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfengcs88&theme=github_dark&layout=compact&exclude_repo=piercetheheavens.ga&hide_border=true&langs_count=6" /></a> |
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfengcs88&theme=github_dark&layout=compact&exclude_repo=piercetheheavens.ga&hide_border=true&langs_count=6" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Gui00k&theme=github_dark&hide=contribs,issues&show_icons=true&include_all_commits=true&hide_border=true" alt="Gui00k github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui00k&theme=github_dark&layout=compact&exclude_repo=piercetheheavens.ga&hide_border=true&langs_count=6" /></a> |
+
 | ------------- | ------------- |
 
 ## Top repositories
