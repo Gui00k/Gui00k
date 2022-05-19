@@ -41,8 +41,8 @@
 ## My Workspace:
 [<img height=40 src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white">](https://www.microsoft.com/en-us/windows?r=1)</br>
 [<img height=40 src="https://img.shields.io/badge/Zen 2-Ryzen%201700X-%23ED1C24?style=for-the-badge&logo=AMD">](https://www.amd.com/en/products/cpu/amd-ryzen-7-3700x)</br>
-[<img height=40 src="https://img.shields.io/badge/Corsair-Vengeance RGB PRO 2x 8 GB-%23ffd900?style=for-the-badge&logo=corsair">](https://www.risemode.nz/memoria)</br>
-[<img height=40 src="https://img.shields.io/badge/RTX%20-RX%203060-%23ED1C24?style=for-the-badge&logo=nvidia">](https://en.colorful.cn/product_show.aspx?id=1838&mid=102)</br>
+[<img height=40 src="https://img.shields.io/badge/Corsair-Vengeance RGB PRO 4x 8 GB-%23ffd900?style=for-the-badge&logo=corsair">](https://www.risemode.nz/memoria)</br>
+[<img height=40 src="https://img.shields.io/badge/RTX%20-RTX%203060-%23ED1C24?style=for-the-badge&logo=nvidia">](https://en.colorful.cn/product_show.aspx?id=1838&mid=102)</br>
 [<img height=40 src="https://img.shields.io/badge/ROG%20STRIX-B550--F-%23000000?style=for-the-badge&logo=asus">](https://rog.asus.com/us/motherboards/rog-strix/rog-strix-b550-f-gaming-model/)</br>
 [<img height=40 src="https://img.shields.io/badge/Corsair-RM White 750x-%23ffd900?style=for-the-badge&logo=corsair">](https://www.corsair.com/br/pt/Categorias/Produtos/Unidades-de-fonte-de-alimenta%C3%A7%C3%A3o/RM-Series-White/p/CP-9020231-WW)</br>
 [<img height=40 src="https://img.shields.io/badge/WD__Black-SN550 480 GB-%23000000?style=for-the-badge&logo=westerndigital">](https://www.westerndigital.com/products/internal-drives/wd-black-sn500-nvme-ssd#WDS250G3X0C)</br>
