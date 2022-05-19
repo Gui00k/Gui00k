@@ -11,18 +11,11 @@
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Gui00k&theme=github_dark&hide=contribs,issues&show_icons=true&include_all_commits=true&hide_border=true" alt="Gui00k github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui00k&theme=github_dark&layout=compact&exclude_repo=piercetheheavens.ga&hide_border=true&langs_count=6" /></a> |
 
-| ------------- | ------------- |
-
 ## Top repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=wavedash&theme=github_dark)](https://github.com/kevinfengcs88/wavedash)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=vim-guide&theme=github_dark)](https://github.com/kevinfengcs88/vim-guide)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=kahoot-monkey&theme=github_dark)](https://github.com/kevinfengcs88/kahoot-monkey)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=kevinfeng.ga&theme=github_dark)](https://github.com/kevinfengcs88/kevinfeng.ga)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=monkaly&theme=github_dark)](https://github.com/kevinfengcs88/monkaly)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=osrs-projects&theme=github_dark)](https://github.com/kevinfengcs88/osrs-projects)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=piercetheheavens.ga&theme=github_dark)](https://github.com/kevinfengcs88/piercetheheavens.ga)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=morse-learner&theme=github_dark)](https://github.com/kevinfengcs88/morse-learner)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=wavedash&theme=github_dark)](https://github.com/Gui00k/TestDatabase)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=vim-guide&theme=github_dark)](https://github.com/Gui00k/API-validacao)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=kahoot-monkey&theme=github_dark)](https://github.com/Gui00k/API-s-PHP)
 
 
 ## Languages and Tools:
@@ -50,8 +43,8 @@
 
 ## My Workspace:
 [<img height=40 src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white">](https://www.microsoft.com/en-us/windows?r=1)</br>
-[<img height=40 src="https://img.shields.io/badge/Zen 2-Ryzen%203700X-%23ED1C24?style=for-the-badge&logo=AMD">](https://www.amd.com/en/products/cpu/amd-ryzen-7-3700x)</br>
-[<img height=40 src="https://img.shields.io/badge/Corsair-Vengeance RGB PRO 16 GB-%23ffd900?style=for-the-badge&logo=corsair">](https://www.corsair.com/us/en/Categories/Products/Memory/Vengeance-PRO-RGB-Black/p/CMW16GX4M2C3200C16)</br>
+[<img height=40 src="https://img.shields.io/badge/Zen 2-Ryzen%201700X-%23ED1C24?style=for-the-badge&logo=AMD">](https://www.amd.com/en/products/cpu/amd-ryzen-7-3700x)</br>
+[<img height=40 src="https://img.shields.io/badge/Rise-Diamond RGB PRO 2x 8 GB-%23ffd900?style=for-the-badge&logo=corsair">](https://www.risemode.nz/memoria)</br>
 [<img height=40 src="https://img.shields.io/badge/RDNA%202-RX%206800-%23ED1C24?style=for-the-badge&logo=AMD">](https://www.amd.com/en/products/graphics/amd-radeon-rx-6800)</br>
 [<img height=40 src="https://img.shields.io/badge/ROG%20STRIX-B550--F-%23000000?style=for-the-badge&logo=asus">](https://rog.asus.com/us/motherboards/rog-strix/rog-strix-b550-f-gaming-model/)</br>
 [<img height=40 src="https://img.shields.io/badge/Corsair-RM750x-%23ffd900?style=for-the-badge&logo=corsair">](https://www.corsair.com/us/en/Categories/Products/Power-Supply-Units/Power-Supply-Units-Advanced/RMx-Series/p/CP-9020179-NA)</br>
