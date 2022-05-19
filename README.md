@@ -13,17 +13,14 @@
 
 ## Top repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=wavedash&theme=github_dark)](https://github.com/Gui00k/TestDatabase)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=vim-guide&theme=github_dark)](https://github.com/Gui00k/API-validacao)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=kahoot-monkey&theme=github_dark)](https://github.com/Gui00k/API-s-PHP)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gui00k&repo=TestDatabase&theme=github_dark)](https://github.com/Gui00k/TestDatabase)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gui00k&repo=API-validacao&theme=github_dark)](https://github.com/Gui00k/API-validacao)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gui00k&repo=API-s-PHP&theme=github_dark)](https://github.com/Gui00k/API-s-PHP)
 
 
 ## Languages and Tools:
 <div>
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;&nbsp;&nbsp;
-  <img width=50px src="https://cdn.freebiesupply.com/logos/large/2x/vim-logo-png-transparent.png">&nbsp;&nbsp;&nbsp;
-  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png">&nbsp;&nbsp;&nbsp;
-  <img width=50px src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png">&nbsp;&nbsp;&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;&nbsp;&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;&nbsp;&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">&nbsp;&nbsp;&nbsp;
@@ -44,12 +41,12 @@
 ## My Workspace:
 [<img height=40 src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white">](https://www.microsoft.com/en-us/windows?r=1)</br>
 [<img height=40 src="https://img.shields.io/badge/Zen 2-Ryzen%201700X-%23ED1C24?style=for-the-badge&logo=AMD">](https://www.amd.com/en/products/cpu/amd-ryzen-7-3700x)</br>
-[<img height=40 src="https://img.shields.io/badge/Rise-Diamond RGB PRO 2x 8 GB-%23ffd900?style=for-the-badge&logo=corsair">](https://www.risemode.nz/memoria)</br>
-[<img height=40 src="https://img.shields.io/badge/RDNA%202-RX%206800-%23ED1C24?style=for-the-badge&logo=AMD">](https://www.amd.com/en/products/graphics/amd-radeon-rx-6800)</br>
+[<img height=40 src="https://img.shields.io/badge/Corsair-Vengeance RGB PRO 2x 8 GB-%23ffd900?style=for-the-badge&logo=corsair">](https://www.risemode.nz/memoria)</br>
+[<img height=40 src="https://img.shields.io/badge/RTX%202-RX%203060-%23ED1C24?style=for-the-badge&logo=nvidia">](https://en.colorful.cn/product_show.aspx?id=1838&mid=102)</br>
 [<img height=40 src="https://img.shields.io/badge/ROG%20STRIX-B550--F-%23000000?style=for-the-badge&logo=asus">](https://rog.asus.com/us/motherboards/rog-strix/rog-strix-b550-f-gaming-model/)</br>
-[<img height=40 src="https://img.shields.io/badge/Corsair-RM750x-%23ffd900?style=for-the-badge&logo=corsair">](https://www.corsair.com/us/en/Categories/Products/Power-Supply-Units/Power-Supply-Units-Advanced/RMx-Series/p/CP-9020179-NA)</br>
-[<img height=40 src="https://img.shields.io/badge/WD__Black-SN750 500 GB-%23000000?style=for-the-badge&logo=westerndigital">](https://www.westerndigital.com/products/internal-drives/wd-black-sn750-nvme-ssd#WDS250G3X0C)</br>
-[<img height=40 src="https://img.shields.io/badge/BarraCuda-2%20TB-%236EBE49?style=for-the-badge&logo=seagate">](https://www.seagate.com/products/hard-drives/barracuda-hard-drive/)</br>
+[<img height=40 src="https://img.shields.io/badge/Corsair-RM White 750x-%23ffd900?style=for-the-badge&logo=corsair">](https://www.corsair.com/br/pt/Categorias/Produtos/Unidades-de-fonte-de-alimenta%C3%A7%C3%A3o/RM-Series-White/p/CP-9020231-WW)</br>
+[<img height=40 src="https://img.shields.io/badge/WD__Black-SN550 480 GB-%23000000?style=for-the-badge&logo=westerndigital">](https://www.westerndigital.com/products/internal-drives/wd-black-sn500-nvme-ssd#WDS250G3X0C)</br>
+[<img height=40 src="https://img.shields.io/badge/BarraCuda-1%20TB-%236EBE49?style=for-the-badge&logo=xpg">](https://www.seagate.com/products/hard-drives/barracuda-hard-drive/)</br>
 
 ---
 <!-- BLOG-POST-LIST:END -->
