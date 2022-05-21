@@ -16,6 +16,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gui00k&repo=TestDatabase&theme=github_dark)](https://github.com/Gui00k/Node-Routes-Database)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gui00k&repo=API-validacao&theme=github_dark)](https://github.com/Gui00k/API-validacao)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gui00k&repo=API-s-PHP&theme=github_dark)](https://github.com/Gui00k/API-s-PHP)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gui00k&repo=Smart-Contract-Solidity&theme=github_dark)](https://github.com/Gui00k/Smart-Contract-Solidity)
 
 
 ## Languages and Tools:
@@ -30,7 +31,6 @@
   <img width=50px src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">&nbsp;&nbsp;&nbsp;
   <img width=50px src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">&nbsp;&nbsp;&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;&nbsp;&nbsp;
-  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">&nbsp;&nbsp;&nbsp;
   <img width=50px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">&nbsp;&nbsp;&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">&nbsp;&nbsp;&nbsp;
   <img width=50px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">&nbsp;&nbsp;&nbsp;
