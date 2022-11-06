@@ -2,7 +2,7 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá, seja bem vindo ao meu perfil, me chamo Guilherme, e vou ser seu guia nessa incrivel jornada que é a Tecnologia!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://https://www.linkedin.com/in/guilherme-machado-freitas-694023237/)](https://www.linkedin.com/in/guilherme-machado-freitas-694023237/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://https://www.linkedin.com/in/guilherme-machado-freitas-694023237/)](https://www.linkedin.com/in/guilherme-machado-freitas-694023237/)
+[![BeeCrowd](https://www.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036&logo=linkedin&labelColor=blue&link=https://www.beecrowd.com.br/judge/pt/profile/669291/)](https://www.beecrowd.com.br/judge/pt/profile/669291/)
 
 :school: Atualmente estudando Ciencias da Computação Full Stack</br>
 :fountain_pen: Desde de sempre apaixonado por tecnologia</br>
